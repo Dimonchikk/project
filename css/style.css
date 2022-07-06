@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body{
+    background: url(..img/index.jmg);
+}
+h1.fg{
+    -webkit-text-stroke: 0.5px red;
+}
+.gg{
+    position: absolute;
+    font-size: 1em;
+    padding-left: 200px;
+    padding-top: 250px;
+}
